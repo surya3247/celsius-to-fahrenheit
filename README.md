@@ -29,5 +29,4 @@ Analyze datasets to understand user behavior, cooking preferences, and order tre
 - Focus on promoting popular dishes ...
 - Offer discounts for demographic groups ... (replace with actual recommendations).
 
-## Author
-[Your Name]
+
